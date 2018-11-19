@@ -1,0 +1,12 @@
+{
+	"main": "lib.js",
+	"repoType": "lib",
+	"name": "pathy",
+	"version": "0.0.1",
+	"license": "MIT",
+	"repository": "https://github.com/2zH/pathy.git",
+  "author": "taugocauci <shenzh2012@gmail.com>",
+	"dependencies": {
+		"fs-extra": "^7.0.1"
+	}
+}
