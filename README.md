@@ -3,7 +3,7 @@
 ## Install
 
 ```sh
-yarn global add @chuunibyou/pathy
+yarn add @chuunibyou/pathy
 ```
 
 ## Usage
